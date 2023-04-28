@@ -708,6 +708,9 @@ tb_others_group = {
 		ukn_exions
 		ukn_e3z0
 		ukn_tachyons
+		ad_mana     #can only be seen by spiritual empires
+		ad_hellfire #can only be seen by spiritual empires
+		
 	}
 	localization = {
 		"RESOURCE_GROUP_DEFAULT" = default
